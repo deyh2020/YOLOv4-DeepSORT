@@ -5,12 +5,14 @@ Object tracking implemented with YOLOv4, DeepSort, and TensorFlow. YOLOv4 is a s
 
 ## Demo of Object Tracker on Persons
 <p align="center"><img src="data/helpers/demo.gif"\></p>
+Here, other objects like bicycle and suitcase are also been detected and tracked.
 
 ## Demo of Object Tracker on Cars
 <p align="center"><img src="data/helpers/cars.gif"\></p>
 
 ### Demo of Object Tracker set to only track the class 'person'
 <p align="center"><img src="data/helpers/demo.gif"\></p>
+Here, only persons are been detected and tracked.
 
 ### Demo of Object Tracker set to only track the class 'car'
 <p align="center"><img src="data/helpers/cars.gif"\></p>
