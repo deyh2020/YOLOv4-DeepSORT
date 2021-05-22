@@ -14,8 +14,5 @@ Here, other objects like bicycle and suitcase are also been detected and tracked
 <p align="center"><img src="data/helpers/demo.gif"\></p>
 Here, only persons are been detected and tracked.
 
-### Demo of Object Tracker set to only track the class 'car'
-<p align="center"><img src="data/helpers/cars.gif"\></p>
-
 ### References
   * [Deep SORT Repository](https://github.com/nwojke/deep_sort)
